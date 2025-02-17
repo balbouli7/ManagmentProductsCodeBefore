@@ -5,6 +5,7 @@ import Header from "./Header";
 import { getProducts } from "./services/productService";
 import Spinner from "./Spinner";
 import useFetch from "./services/UseFetch";
+import { Route, Routes } from "react-router-dom";
 
 
 export default function App() {
@@ -66,6 +67,10 @@ if(loading){return <Spinner/>}
             }
 
           </section>
+          <Routes>
+            <Route path="/" />
+            <Route path="/products" element={<useFetch />} />
+          </Routes>
         </main>
       </div>
       <Footer />
