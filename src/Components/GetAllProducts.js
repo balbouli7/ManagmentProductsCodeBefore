@@ -14,7 +14,7 @@ export default function GetAllProducts() {
    function renderProduct(p) {
      return (
        <div key={p.id} className="product">
-         <a href="/">
+         <a href={`/products/${category}/${p.id}`}>
           <img src={`/images/${p.image}`} alt={p.name} />
           <h3>{p.name}</h3>
          <p>${p.price}</p>

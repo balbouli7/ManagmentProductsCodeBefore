@@ -7,8 +7,14 @@
       "name": "Hiker",
       "price": 94.95,
       "skus": [
-        { "sku": "17", "size": 7 },
-        { "sku": "18", "size": 8 }
+        {
+          "sku": "17",
+          "size": 7
+        },
+        {
+          "sku": "18",
+          "size": 8
+        }
       ],
       "description": "This rugged boot will get you up the mountain safely."
     },
@@ -19,8 +25,14 @@
       "name": "Climber",
       "price": 78.99,
       "skus": [
-        { "sku": "28", "size": 8 },
-        { "sku": "29", "size": 9 }
+        {
+          "sku": "28",
+          "size": 8
+        },
+        {
+          "sku": "29",
+          "size": 9
+        }
       ],
       "description": "Sure-footed traction in slippery conditions."
     },
@@ -31,9 +43,18 @@
       "name": "Explorer",
       "price": 145.95,
       "skus": [
-        { "sku": "37", "size": 7 },
-        { "sku": "38", "size": 8 },
-        { "sku": "39", "size": 9 }
+        {
+          "sku": "37",
+          "size": 7
+        },
+        {
+          "sku": "38",
+          "size": 8
+        },
+        {
+          "sku": "39",
+          "size": 9
+        }
       ],
       "description": "Look stylish while stomping in the mud."
     }
@@ -43,6 +64,186 @@
       "id": 1,
       "city": "",
       "country": ""
+    },
+    {
+      "city": "mourouj",
+      "country": "Tunisie",
+      "id": 2
+    },
+    {
+      "city": "mourouj",
+      "country": "Tunisie",
+      "id": 3
+    },
+    {
+      "city": "mourouj",
+      "country": "Algerie",
+      "id": 4
+    },
+    {
+      "city": "mourouj",
+      "country": "Algerie",
+      "id": 5
+    },
+    {
+      "city": "mourouj",
+      "country": "Algerie",
+      "id": 6
+    },
+    {
+      "city": "mourouj",
+      "country": "Algerie",
+      "id": 7
+    },
+    {
+      "city": "mourouj",
+      "country": "Tunisie",
+      "id": 8
+    },
+    {
+      "city": "mourouj",
+      "country": "Tunisie",
+      "id": 9
+    },
+    {
+      "city": "",
+      "country": "",
+      "id": 10
+    },
+    {
+      "city": "mourouj",
+      "country": "Egypt",
+      "id": 11
+    },
+    {
+      "city": "mourouj",
+      "country": "Egypt",
+      "id": 12
+    },
+    {
+      "city": "mourouj",
+      "country": "Egypt",
+      "id": 13
+    },
+    {
+      "city": "mourouj",
+      "country": "Egypt",
+      "id": 14
+    },
+    {
+      "city": "mourouj",
+      "country": "Egypt",
+      "id": 15
+    },
+    {
+      "city": "mourouj",
+      "country": "Egypt",
+      "id": 16
+    },
+    {
+      "city": "mourouj",
+      "country": "Egypt",
+      "id": 17
+    },
+    {
+      "city": "mourouj",
+      "country": "Egypt",
+      "id": 18
+    },
+    {
+      "city": "mourouj",
+      "country": "Tunisie",
+      "id": 19
+    },
+    {
+      "city": "mourouj",
+      "country": "Tunisie",
+      "id": 20
+    },
+    {
+      "city": "mourouj",
+      "country": "Tunisie",
+      "id": 21
+    },
+    {
+      "city": "mourouj",
+      "country": "Tunisie",
+      "id": 22
+    },
+    {
+      "city": "ben arous",
+      "country": "Tunisie",
+      "id": 23
+    },
+    {
+      "city": "ben arous",
+      "country": "Tunisie",
+      "id": 24
+    },
+    {
+      "city": "ben arous",
+      "country": "Tunisie",
+      "id": 25
+    },
+    {
+      "city": "ben arous",
+      "country": "Tunisie",
+      "id": 26
+    },
+    {
+      "city": "ben arous",
+      "country": "Tunisie",
+      "id": 27
+    },
+    {
+      "city": "mourouj",
+      "country": "Algerie",
+      "id": 28
+    },
+    {
+      "city": "mourouj",
+      "country": "Tunisie",
+      "id": 29
+    },
+    {
+      "city": "mourouj",
+      "country": "",
+      "id": 30
+    },
+    {
+      "city": "ben arous",
+      "country": "Algerie",
+      "id": 31
+    },
+    {
+      "city": "",
+      "country": "",
+      "id": 32
+    },
+    {
+      "city": "",
+      "country": "",
+      "id": 33
+    },
+    {
+      "city": "",
+      "country": "",
+      "id": 34
+    },
+    {
+      "city": "",
+      "country": "",
+      "id": 35
+    },
+    {
+      "city": "",
+      "country": "",
+      "id": 36
+    },
+    {
+      "city": "mourouj",
+      "country": "Tunisie",
+      "id": 37
     }
   ]
 }
